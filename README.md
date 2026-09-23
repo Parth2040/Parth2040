@@ -4,7 +4,7 @@
 
 # 👋 Hi there, I'm Parth Patel!
 
-### 💻 Computer Engineering Student | Software Developer | Builder
+### 💻 Computer Engineering Student | Software Developer |
 
 </div>
 
@@ -17,7 +17,6 @@
 - 📍 **Location:** Mumbai Metropolitan Region, India
 - 🚀 **Interests:** Web Development, Software Development, App Development, AI/ML, Automation and Sustainability
 
-> A curious mind that loves building things, solving problems, learning new technologies, and turning ideas into working products.
 
 ---
 
