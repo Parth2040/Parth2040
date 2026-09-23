@@ -1,10 +1,3 @@
-## Hi there 👋
-
-<!--
-**Parth2040/Parth2040** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
 # 💫 About Me:
 🎓 Education: SVKM's Shri Bhagubhai Mafatlal Polytechnic and College of Engineering<br>💻 Field: Computer Engineering<br>📍 Location: Mumbai Metropolitan Region<br>👥 LinkedIn: 500+ connections<br>🚀 Interest/activity: Web development, software development.
 
@@ -23,4 +16,3 @@ Here are some ideas to get you started:
 [![](https://komarev.com/ghpvc/?username=parth2040&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
--->
